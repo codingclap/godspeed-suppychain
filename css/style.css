@@ -15,8 +15,14 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 90vh;
+    min-height: 95vh;
     padding: 10px 15px;
+    position: relative;
+}
+.footer-image{
+    position: absolute;
+    left:0;
+    bottom: 0;
 }
 
 .content-section {
